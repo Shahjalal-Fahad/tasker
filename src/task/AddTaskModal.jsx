@@ -25,7 +25,7 @@ const handleChange=(e)=>{
         <>
         <div className="bg-dark bg-opacity-70 h-full w-full absolute top-0 left-0 z-10"></div>
         <form
-        className="mx-auto my-10 w-full  rounded-xl border border-[#FEFBFB]/[36%] bg-[#191D26] p-9 max-md:px-4 lg:my-20 lg:p-11 top-1/4 left-1/3 z-10 absolute"
+        className="mx-auto my-10 w-full max-w-[740px]   rounded-xl border border-[#FEFBFB]/[36%] bg-[#191D26] p-9 max-md:px-4 lg:my-20 lg:p-11 top-1/4 left-1/3 z-10 absolute"
       >
         <h2
           className="mb-9 text-center text-2xl font-bold text-white lg:mb-11 lg:text-[28px]"
